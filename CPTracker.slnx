@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CPTracker.Api/CPTracker.Api.csproj" />
   <Project Path="CPTracker.Domain/CPTracker.Domain.csproj" />
   <Project Path="CPTracker.Sandbox/CPTracker.Sandbox.csproj" />
 </Solution>
